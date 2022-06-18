@@ -1,0 +1,38 @@
+@font-face {
+    font-family: jetbrains;
+    src: url(https://github.com/sora6kq/sora6kq.github.io/blob/main/JetBrainsMono-Medium.ttf);
+}
+*{
+    font-family: jetbrains;
+    color: #afadac;
+}
+body{
+    background-color: #181818;
+}
+
+.help {
+    font-size: 1.2em;
+    margin-left: 15vw;
+    margin-top: 25vh;
+    width: 65vw;
+}
+
+span{
+    color: #cba16d;
+}
+
+input {
+    background-color: #afadac;
+    border: 0;
+    border-radius: 4px;
+    font-size: 1em;
+    color: #181818;
+    padding: 12px;
+  }
+.submit {
+    margin: 2px;
+    padding: 12px;
+    background-color: #baa85f;
+    color: #181818;
+    border-radius: 4px;
+  }
